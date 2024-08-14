@@ -12,6 +12,7 @@ namespace DiceGame
 
         static void RunProgram()
         {
+            
             bool isRunning = true;
 
             while (isRunning)
@@ -49,17 +50,20 @@ namespace DiceGame
                 int attemptsCounter = 0;
                 int sixesCounter = 0;
                 bool onlySixesInArray = false;
-                
+                int target = dice.Sides;
+
+
                 Console.WriteLine("\nRolling Dice.\n");
 
+                  
                 while (!onlySixesInArray)
                 {
                     for (int i = 0; i < diceStrokesArrayLength; i++)
                     {
-                        diceStrokes[i] = new Dice().Roll();
+                        diceStrokes[i] = dice.Roll();
                         attemptsCounter++;
                         
-                        if (diceStrokes[i] == 6)
+                        if (diceStrokes[i] == target)
                         {
                             sixesCounter++;
                         }
