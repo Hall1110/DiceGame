@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{12EE230C-2B52-4733-A4AA-F3CB795DA546}|DiceGame.csproj|c:\\users\\hfgf\\source\\repos\\dicegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12EE230C-2B52-4733-A4AA-F3CB795DA546}|DiceGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EE230C-2B52-4733-A4AA-F3CB795DA546}|DiceGame.csproj|c:\\users\\hfgf\\source\\repos\\dicegame\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EE230C-2B52-4733-A4AA-F3CB795DA546}|DiceGame.csproj|solutionrelative:dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "C:\\Users\\HFGF\\source\\repos\\DiceGame\\Dice.cs",
+              "RelativeDocumentMoniker": "Dice.cs",
+              "ToolTip": "C:\\Users\\HFGF\\source\\repos\\DiceGame\\Dice.cs",
+              "RelativeToolTip": "Dice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:07:25.732Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\HFGF\\source\\repos\\DiceGame\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwBkAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T07:04:07.206Z",
               "EditorCaption": ""

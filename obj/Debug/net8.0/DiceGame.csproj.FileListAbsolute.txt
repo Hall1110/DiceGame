@@ -12,3 +12,4 @@ C:\Users\HFGF\source\repos\DiceGame\obj\Debug\net8.0\refint\DiceGame.dll
 C:\Users\HFGF\source\repos\DiceGame\obj\Debug\net8.0\DiceGame.pdb
 C:\Users\HFGF\source\repos\DiceGame\obj\Debug\net8.0\DiceGame.genruntimeconfig.cache
 C:\Users\HFGF\source\repos\DiceGame\obj\Debug\net8.0\ref\DiceGame.dll
+C:\Users\HFGF\source\repos\DiceGame\obj\Debug\net8.0\DiceGame.sourcelink.json
