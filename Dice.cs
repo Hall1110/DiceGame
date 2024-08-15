@@ -1,6 +1,4 @@
-﻿using System.Reflection.Metadata.Ecma335;
-
-namespace DiceGame
+﻿namespace DiceGame
 {
     public class Dice
     {
@@ -22,11 +20,12 @@ namespace DiceGame
         }
 
 
-        
+        private readonly Random random = new Random();
+
         public int Roll()
         {
-            int sides = new Dice().Sides;
-            int diceRoll = new Random().Next(1, sides + 1);
+            
+            int diceRoll = random.Next(1, Sides + 1);
             return diceRoll;
         }
     }

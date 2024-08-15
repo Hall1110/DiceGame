@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography;
-
-namespace DiceGame
+﻿namespace DiceGame
 {
     internal class Program
     {
